@@ -52,3 +52,4 @@ Explode Select Investors column into individual rows for categorical analysis
 **📊 Visualization**
 
 Presented Dashboard using PowerBi.
+Dashboard Link: https://app.powerbi.com/groups/me/reports/313a2110-2380-471f-b821-5dfc93247dc4/ReportSection?redirectedFromSignup=1&experience=power-bi
